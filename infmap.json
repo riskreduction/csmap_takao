@@ -1,0 +1,31 @@
+{
+    "language":"ja",
+    "path_name":"takao2017/",
+    "country_name":"Japan",
+    "region_name":"Tokyo",
+    "original_survey_method":"Airbone LiDAR",
+    "point_density_per_sqm":"unknown",
+    "survay_date":"unknown",
+    "surveyor":"Aero Asahi Corporation ",
+    "ordering party":"Tokyo Metropolitan Government",
+    "original_dem_format":"Geotiff",
+    "original_dem_gridsize_metric":1.0,
+    "app_used_for_csmap":"CS Mapmaker on QGIS",
+    "EPSG_code":3857,
+    "image_format":"PNG",
+    "channels":4,
+    "depth":8,
+    "min_longitude":"unknown",
+    "max_longitude":"unknown",
+    "min_latitude":"unknown",
+    "max_latitude":"unknown",
+    "max_zoom":18,
+    "min_zoom":6,
+    "author":"Hiromu Daimaru",
+    "reference":"",
+    "copyright":"",
+    "distribution_date":"2021/11/05",
+    "remarks":[""]
+}
+
+
